@@ -5,7 +5,7 @@ type: software
 license: MIT
 version: 1.0.0
 date-released: 2026-09-20
-repository-code: https://github.com/REPLACE_WITH_ORGANISATION/oa-ra-cross-disease-projection
+repository-code: repository-code: https://github.com/Mrxiaohe123/oa-ra-cross-disease-projection
 authors:
   - family-names: He
     given-names: Qianyu
