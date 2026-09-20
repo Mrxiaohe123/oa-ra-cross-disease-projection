@@ -1,0 +1,1 @@
+Only small frozen public-derived inputs are included. Raw GEO/SRA/FASTQ/BAM files and large matrices must be obtained from the public repositories listed in metadata/public_dataset_manifest.tsv. MIT applies to code only, not third-party data.

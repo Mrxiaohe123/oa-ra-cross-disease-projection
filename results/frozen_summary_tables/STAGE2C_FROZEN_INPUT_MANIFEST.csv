@@ -1,0 +1,7 @@
+"input_type","path","status","notes"
+"expression_matrix","PROJECT_ROOT/04_结果/Stage2B基因矩阵/GSE283079_gene_tpm.tsv.gz","read_ok","Stage2B gene TPM; 41 samples"
+"stage2b_sample_manifest","PROJECT_ROOT/04_结果/Stage2B技术QC/GSE283079_analysis_sample_manifest_frozen.csv","read_ok","36 OA and 5 non-OA; patient IDs unresolved"
+"stage2b_qc_decision","PROJECT_ROOT/04_结果/Stage2B技术QC/sample_qc_decision.csv","read_ok","all 41 retained; SRR31542944 QC-FLAG-BUT-KEEP"
+"frozen_program_manifest","PROJECT_ROOT/结果/Stage1B增量验证/frozen_program_manifest.csv","read_ok","no genes reselected"
+"scoring_rule","log2(TPM+1), cohort-wide row-wise z, mean available genes; RA = up - down","locked","rank_score retained as prespecified sensitivity"
+"ra_reference","Stage1 frozen GSE89408 RA reference; 150 up and 150 down","locked","not interpreted as RA-specific mechanism"

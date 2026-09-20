@@ -1,0 +1,8 @@
+accession	role	platform	tissue	OA_n
+GSE89408	RA reference	GPL11154	synovium	NA
+GSE283079	principal independent validation	RNA-seq	synovium	36
+GSE55235	cross-cohort relationship	GPL96	synovium	10
+GSE55457	cross-cohort relationship	GPL96	synovium	10
+GSE55584	cross-cohort relationship	GPL96	synovium	6
+GSE82107	cross-cohort relationship	GPL570	synovium	10
+GSE206848	cross-cohort relationship	GPL570	synovium	7

@@ -1,0 +1,8 @@
+cohort	role	primary_or_sensitivity	note
+GSE89408	external RA reference	primary	programme definition only
+GSE283079	principal OA validation	primary	36 OA; 5 non-OA descriptive
+GSE55235	OA relationship cohort	primary	shared study context
+GSE55457	OA relationship cohort	primary	independent cohort
+GSE55584	OA relationship cohort	primary	independent cohort
+GSE82107	OA relationship cohort	primary	independent cohort
+GSE206848	OA relationship cohort	primary	independent cohort

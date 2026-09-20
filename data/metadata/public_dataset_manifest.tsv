@@ -1,0 +1,8 @@
+accession	platform	tissue	OA_n	role	public_repository	notes
+GSE89408	GPL11154	synovium	NA	RA reference	NCBI GEO	programme source
+GSE283079	RNA-seq	synovium	36	principal validation	NCBI GEO/SRA	41 runs; 5 non-OA descriptive
+GSE55235	GPL96	synovium	10	cross-cohort	NCBI GEO	shared study context
+GSE55457	GPL96	synovium	10	cross-cohort	NCBI GEO	OA cohort
+GSE55584	GPL96	synovium	6	cross-cohort	NCBI GEO	OA cohort
+GSE82107	GPL570	synovium	10	cross-cohort	NCBI GEO	OA cohort
+GSE206848	GPL570	synovium	7	cross-cohort	NCBI GEO	OA cohort

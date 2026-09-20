@@ -1,0 +1,1 @@
+R 4.5.2, Salmon 1.10.1+galaxy5 and GENCODE v47 are recorded in project provenance. Exact edgeR/limma/ggplot2 versions were not recorded. metafor was not used for primary pooling; custom DerSimonian–Laird pooling was used.

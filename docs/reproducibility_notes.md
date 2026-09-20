@@ -1,0 +1,1 @@
+Public GEO/SRA access and compatible external tools are required for raw reconstruction. The package omits Galaxy submission, keychain, credential and private infrastructure scripts. Several exact R package versions remain unrecorded.

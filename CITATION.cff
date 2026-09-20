@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: Please cite the associated manuscript and this software release.
+title: OA–RA cross-disease transcriptional projection
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-09-20
+repository-code: https://github.com/REPLACE_WITH_ORGANISATION/oa-ra-cross-disease-projection
+authors:
+  - family-names: He
+    given-names: Qianyu
+  - family-names: Yan
+    given-names: Qi
+  - family-names: Chen
+    given-names: Boyi
+  - family-names: Huang
+    given-names: Liyuan
+  - family-names: Jing
+    given-names: Lin
+  - family-names: Cao
+    given-names: Wei

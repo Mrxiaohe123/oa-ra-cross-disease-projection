@@ -1,0 +1,12 @@
+ra_up_genes: 150
+ra_down_genes: 150
+ra_selection_fdr: 0.05
+gse283079_total_runs: 41
+gse283079_oa_samples: 36
+gse283079_non_oa_samples: 5
+bootstrap_iterations: 2000
+bootstrap_seed: 20260912
+primary_meta_method: DerSimonian-Laird
+sensitivity_meta_method: REML_Hartung-Knapp
+score_definition: RA_up_mean_z_minus_RA_down_mean_z
+expression_transform: log2_TPM_plus_1

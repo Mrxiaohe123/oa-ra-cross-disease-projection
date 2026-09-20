@@ -1,0 +1,1 @@
+Public GEO/SRA provenance is listed in data/metadata/public_dataset_manifest.tsv. Raw sequencing files and large expression matrices are not redistributed. Obtain them directly from NCBI GEO/SRA. MIT applies to code only.
